@@ -1,11 +1,3 @@
-
-function onCreate()
-
-  addLuaScript("video")
-  addLuaScript("videoEnd")
-
-end
-
 function onBeatHit()
 	
 	if curBeat == 330 then
